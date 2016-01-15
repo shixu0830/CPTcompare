@@ -2,6 +2,7 @@
 \alias{CCSS}
 \docType{data}
 \title{
+Clinical Classifications Software for Services and Procedures (CCS)
 %%   ~~ data name/kind ... ~~
 }
 \description{
